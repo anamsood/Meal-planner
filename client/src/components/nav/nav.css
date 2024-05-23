@@ -1,0 +1,19 @@
+.Nav {
+	border-bottom: solid 1px silver;
+	padding: 1rem;
+}
+.Nav__button {
+	font-family: nunito;
+	color: asphalt;
+	background-color: transparent;
+	border-radius: 0;
+	padding: 0.5rem 1.2rem;
+	margin-right: 20px;
+	display: inline-block;
+	cursor: pointer;
+	text-align: center;
+	font-size: 1rem;
+}
+.Nav button:hover {
+	color: flatred;
+}
