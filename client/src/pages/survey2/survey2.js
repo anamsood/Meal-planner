@@ -56,7 +56,7 @@ function Survey2() {
 									className="answer"
 									value="nonveg"
 									onChange={handleOptionChange}
-									checked={selectedOption === "non-veg"}
+									checked={selectedOption === "nonveg"}
 								/>
 								<label htmlFor="b" id="b_text">
 									Non-Vegetarian diet
